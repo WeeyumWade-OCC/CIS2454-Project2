@@ -1,0 +1,12 @@
+# Dependency folders
+node_modules/
+
+# Vite production files
+dist/
+
+# Environment files
+.env
+.env.local
+
+# Log files
+*.log
